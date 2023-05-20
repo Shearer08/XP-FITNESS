@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@500;700&display=swap');
+
+body{
+    color: #fff;
+}
+header{
+    background-image: url("./Assets/Rectangle\ 44\ \(2\).png");
+    height: 46vh;
+    background-size: cover;
+}
+.nav-link:hover{ 
+    color: blue !important;
+
+}
+ .header-content p{
+    margin-top: 1rem;
+    padding: 20px;
+    background-color: hsla(0, 0%, 0%, 0.425);
+}
+.grid-container{
+    max-width: 900px;
+}
